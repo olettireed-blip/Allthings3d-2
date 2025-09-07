@@ -1,26 +1,26 @@
 [
   {
-    "name": "Waffle Flicks",
+    "name": "Waffle Flex",
     "price": "$6",
-    "image": "images/waffle-flicks.jpg",
+    "image": "images/hex flex.jpg",
     "link": "https://www.paypal.me/ReedOletti618/6"
   },
   {
     "name": "Sports Keychain",
     "price": "$4",
-    "image": "images/sports-keychain.jpg",
+    "image": "images/sports keychain.jpg",
     "link": "https://www.paypal.me/ReedOletti618/4"
   },
   {
     "name": "Gear Shifter",
     "price": "$8",
-    "image": "images/gear-shifter.jpg",
+    "image": "images/gear shifter.jpg",
     "link": "https://www.paypal.me/ReedOletti618/8"
   },
   {
     "name": "Love Keychain",
     "price": "$5",
-    "image": "images/love-keychain.jpg",
+    "image": "images/love keychain.jpg",
     "link": "https://www.paypal.me/ReedOletti618/5"
   }
 ]
